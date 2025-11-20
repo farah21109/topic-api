@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Blockchain", "category": "Technology" },
+  { "id": 2, "name": "DeFi", "category": "Finance" },
+  { "id": 3, "name": "NFTs", "category": "Digital Assets" },
+  { "id": 4, "name": "Smart Contracts", "category": "Technology" },
+  { "id": 5, "name": "Cryptocurrency", "category": "Finance" }
+]
